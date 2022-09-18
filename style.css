@@ -1,0 +1,25 @@
+.heading{
+
+width:80%;
+font-size: 56.3px;
+}
+
+body{
+
+background-color:tomato;
+
+}
+
+.bold{
+
+font-size: 26.74;
+color:cornflowerblue;
+
+}
+
+#camera{
+
+    width: 350px;
+    height: 300px;
+    border : 2px dotted black;
+}  
